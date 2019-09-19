@@ -1,0 +1,11 @@
+{
+  "require": {
+    "vendor/my-private-repo": "master"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url":  "https://github.com/sunlazor/otus-php-backend-hw4"
+    }
+  ]
+}
