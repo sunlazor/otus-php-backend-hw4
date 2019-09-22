@@ -1,4 +1,9 @@
 {
   "name": "sunlazor/textprinter",
-  "description": "test package"
+  "description": "test package",
+  "autoload": {
+    "psr-4": {
+      "sunlazor\\TextPrinter": "./src/"
+    }
+  },
 }
