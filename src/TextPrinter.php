@@ -1,7 +1,7 @@
 <?php
 
 
-namespace sunlazor\TextPrinter;
+namespace sunlazor;
 
 
 class TextPrinter
