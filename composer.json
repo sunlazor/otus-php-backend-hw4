@@ -3,7 +3,7 @@
   "description": "test package",
   "autoload": {
     "psr-4": {
-      "sunlazor\\TextPrinter\\": "./src/"
+      "sunlazor\\TextPrinter\\": "src/"
     }
   }
 }
